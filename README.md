@@ -6,6 +6,10 @@ This is *italic*. This is **bold** text.
 This is ***both*** text.
 ###### How big is this header??
 
+Link to[apple web site](https://www.apple.com)
+---
+
+
 ### Code styling.
 We want a function of arguments `x` and `y`. Here it is
 ```
